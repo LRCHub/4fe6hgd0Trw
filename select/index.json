@@ -2,8 +2,16 @@
   "version": 1,
   "base_track": "絵画",
   "base_artist": "大森元貴",
-  "createdAt": "2025-12-08T10:28:53.520684Z",
+  "createdAt": "2026-04-01T13:18:58.542215Z",
   "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "絵画",
+      "artist": "大森元貴",
+      "has_synced": true,
+      "path": "select/01_絵画_大森元貴.lrc"
+    },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
@@ -11,6 +19,25 @@
       "artist": "大森元貴",
       "has_synced": false,
       "path": "select/pl_01_絵画_大森元貴.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "絵画",
+      "artist": "大森元貴",
+      "has_synced": true,
+      "path": "select/localdb_01_絵画_大森元貴.lrc",
+      "repo_name": "sc_Lkv4B-lw"
+    },
+    {
+      "id": "localdb_dynamic_1",
+      "source": "localdb",
+      "title": "絵画",
+      "artist": "大森元貴",
+      "has_synced": true,
+      "path": "select/localdb_01_絵画_大森元貴.dynamic.lrc",
+      "kind": "dynamic",
+      "repo_name": "sc_Lkv4B-lw"
     }
   ]
 }
